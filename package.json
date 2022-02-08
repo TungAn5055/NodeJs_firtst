@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "@admin-bro/mongoose": "^1.1.0",
+    "admin-bro": "^4.0.1",
+    "express": "^4.17.2",
+    "express-formidable": "^1.2.0",
+    "mongodb": "^4.3.1",
+    "tlib": "^1.0.0",
+    "tslib": "^2.3.1"
+  },
+  "name": "node-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
